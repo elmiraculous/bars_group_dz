@@ -1,0 +1,20 @@
+@import url(style/reset.css);
+@import url(style/cammon.css);
+/*.container{*/
+/*    !*text-align: center;*!*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    flex-direction: column;*/
+
+/*}*/
+.nav-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style-type: none;
+    margin-top: 30px;
+}
+.nav-item {
+    margin: 20px 20px;
+}
