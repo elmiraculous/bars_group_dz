@@ -1,0 +1,7 @@
+@import url(../style/reset.css);
+@import url(../style/cammon.css);
+
+#secret{
+    display: none;
+    margin-top: 50px;
+}
