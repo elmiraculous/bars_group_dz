@@ -36,3 +36,10 @@ h1 {
     font-weight: bold;
 
 }
+.list {
+    cursor: pointer;
+    color: #4682b4;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    margin: 20px;
+}
