@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="addb0f16-5a87-454c-aa6d-8e373ca9203c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dz1/4/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz1/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dz1/4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz1/4/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dz1/4/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/2/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/style/cammon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/style/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,24 +42,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Elmira/bars_group_dz/dz1/4",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Elmira/bars_group_dz/dz2&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Elmira\bars_group_dz\dz2" />
       <recent name="C:\Users\Elmira\bars_group_dz\dz1\4" />
       <recent name="C:\Users\Elmira\bars_group_dz\dz1\3" />
       <recent name="C:\Users\Elmira\bars_group_dz\dz1\2" />
@@ -83,7 +92,8 @@
       <workItem from="1717083808617" duration="3228000" />
       <workItem from="1717261552006" duration="4559000" />
       <workItem from="1717267420129" duration="1630000" />
-      <workItem from="1717339835301" duration="3435000" />
+      <workItem from="1717339835301" duration="10170000" />
+      <workItem from="1717520287965" duration="1754000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,20 @@
+/*@import url(../style/reset.css);*/
+@import url(../style/cammon.css);
+
+.input_task{
+    border: 1px solid #bdbdbd;
+
+}
+
+.task {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.task.completed .task-name {
+    text-decoration: line-through;
+}
+input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+}

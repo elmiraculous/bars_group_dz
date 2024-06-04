@@ -1,0 +1,18 @@
+@import url(../style/reset.css);
+@import url(../style/cammon.css);
+
+.link {
+    color: black;
+    text-decoration: none;
+}
+.link:visited {
+    color: gray;
+}
+.link:hover {
+    color: green;
+    text-decoration: underline;
+}
+.link:active {
+    color: blue;
+}
+
